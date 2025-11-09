@@ -1,6 +1,8 @@
 # wofi-hyprland-keybinds
 Script to list Hyprland keybinds in Wofi.
+
 This script provides a quick and efficient way for Hyprland users to access and execute keybindings defined in their Hyprland configuration file by Wofi.
+
 This project is based on [rofi-hyprland-keybinds-cheatsheet](https://github.com/jason9075/rofi-hyprland-keybinds-cheatsheet).
 
 ## Preview
