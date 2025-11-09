@@ -26,5 +26,6 @@ This project is based on [rofi-hyprland-keybinds-cheatsheet](https://github.com/
   `
   bind = $mainMod, SPACE, exec, pkill wofi || wofi-keybinds.sh #Keymap
   `
+
   (The script should be made executable by `chmod +x` and placed in a directory included in your `$PATH`.)
   
